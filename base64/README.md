@@ -20,3 +20,12 @@
 
 - Swift：`base64.swift`
 
+
+
+
+
+#### 实现
+
+- `https://github.com/lemire/fastbase64/blob/master/src/chromiumbase64.c`
+- `https://github.com/swift-extras/swift-extras-base64/blob/main/Sources/ExtrasBase64/Base64.swift`
+- `https://github.com/apple/swift-nio/blob/main/Sources/_NIOBase64/Base64.swift`
